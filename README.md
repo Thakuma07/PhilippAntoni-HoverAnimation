@@ -4,6 +4,8 @@ An ultra-premium, interactive horizontal accordion slider with dynamic tracking 
 
 This component features hardware-accelerated panel expansion, fluid cursor-hover interactions, fully responsive touch support, and high-performance coordinate tracking indicators, creating an immersive showcase for photography or design portfolios.
 
+<img width="1920" height="1080" alt="Screenshot (501)" src="https://github.com/user-attachments/assets/f397f6ef-d0a5-4318-b3c1-005a4488d490" />
+
 ---
 
 ## 📖 Table of Contents
